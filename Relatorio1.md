@@ -3,7 +3,7 @@
 **Aluno:** Vinícius Santos Araújo
 **Data:** 23/09/2025
 
-## Grupo 1 — Jogadores
+## Grupo 7 — Jogadores
 
 **O que achei legal**
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Grupo 2 — Distribuição de cartas
+## Grupo 3 — Distribuição de cartas
 
 **O que achei legal**
 
@@ -45,27 +45,7 @@
 
 ---
 
-## Grupo 3 — Trocas
-
-**O que achei legal**
-
-* Responsabilidade clara: **propostas** e **notificações** de troca.
-* Sinalização de que precisa de algo **quase em tempo real**.
-
-**O que pode melhorar**
-
-* Só **REST** tende a virar *polling* caro/lento.
-* Risco de **inconsistência** se permitir trocar carta que o jogador **não possui mais**.
-
-**Dicas práticas**
-
-* Usar **eventos/filas** ou **WebSocket** (notificação de propostas/aceites).
-* Validar posse consultando o **repositório central** (Grupo 2 → “Cartas do Jogador”).
-* Separar **módulo de notificação** do **módulo de registro de trocas**.
-
----
-
-## Grupo 4 — Visualização de Cartas
+## Grupo 8 — Visualização de Cartas
 
 **O que achei legal**
 
@@ -86,7 +66,7 @@
 
 ---
 
-## Grupo 5 — Visualização de Trocas
+## Grupo 6 — Visualização de Trocas
 
 **O que achei legal**
 
@@ -105,7 +85,7 @@
 
 ---
 
-## Grupo 6 — Painel de Administração
+## Grupo 5 — Painel de Administração
 
 **O que achei legal**
 
@@ -124,7 +104,7 @@
 
 ---
 
-## Grupo 7 — Gestão de Partidas
+## Grupo 1 — Gestão de Partidas
 
 **O que achei legal**
 
@@ -143,7 +123,7 @@
 
 ---
 
-## Grupo 8 — Batalha
+## Grupo 4 — Batalha
 
 **O que achei legal**
 
@@ -181,4 +161,3 @@
 * Planejar **índices de busca** (nome, tipo, raridade) pra escalar sem travar.
 
 ---
-

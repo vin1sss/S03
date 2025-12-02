@@ -1,14 +1,14 @@
 ## Tema 1 – Equipe 7 
 **Positivas:**
-* Bom uso do padrão **Repository**, que tinha ficado pendente na última vez.
+* Usaram bem o padrão **Repository**, que tinha ficado pendente na última vez.
 
 ---
 
 ## Tema 3 – Equipe 2 
 **Positivas:**
-* Aplicaram **Strategy**, **Dependency Injection**, **Factory**, **Observer** e **Repository**.
-* Todas as escolhas foram justificadas e explicadas em cima do projeto.
-* O UML explica bem o funcionamento, apesar de ser complexo.
+* Aplicaram **Strategy**, **Dependency Injection**, **Factory**, **Repository** e **Observer**.
+* UML explica bem o funcionamento.
+* Escolhas justificadas e explicadas.
 
 **Negativas:**
 * O UML ficou mais complexo do que precisava.
@@ -20,27 +20,24 @@
 * O uso do **Observer** fez sentido na aplicação.
 
 **Negativas:**
-* Não mostraram *como* aplicaram o Observer na prática.
 * Podiam ter usado mais padrões de projeto.
+* Não mostraram *como* aplicaram o Observer na pratica.
 
 ---
 
 ## Tema 5 – Equipe 6 
 **Positivas:**
-* Usaram **Facade**, **Factory** e **Singleton**.
 * Criaram tratamentos de erros.
+* Usaram **Facade**, **Factory** e **Singleton**.
 
 **Negativas:**
-* Faltou explorar padrões comportamentais.
+* Faltou explorar o padrão comportamental.
 
 ---
 
 ## Tema 6 – Equipe 5
 **Positivas:**
 * O uso do **Adapter** foi uma boa medida para a comunição com outros projetos.
-
-**Negativas:**
-* Podiam ter encaixado um padrão **Strategy**.
 
 ---
 
@@ -49,21 +46,20 @@
 * Juntaram tudo em um só monólito.
 
 **Negativas:**
-* Faltou explicar os padrões de projeto que escolheram.
+* Não explicaram a escolha dos padrões de projeto.
 
 ---
 
 ## Tema 8 – Equipe 4 
 **Positivas:**
-* Boa utilização de **Factory**, **Facade** e **Builder**.
-* A explicação de como aplicaram o Factory no código foi boa.
+* Utilizaram **Facade**, **Factory** e **Builder**.
 
 ---
 
 ## Tema 9 – Equipe 9 
 **Positivas:**
-* Usaram o padrão **Repository** e justificaram o motivo.
-* Explicaram o **Singleton** com exemplos.
+* **Singleton** bem explicado.
+* Usaram o padrão **Repository**.
 
 **Negativas:**
-* Faltaram alguns padrões, como o **Adapter**.
+* Faltaram alguns padrões.
